@@ -1,6 +1,6 @@
-pip install streamlit
-pip install requests
-pip install pandas
+streamlit
+requests
+pandas
 fastapi==0.115.6
 uvicorn==0.34.0
 sqlalchemy==2.0.37
